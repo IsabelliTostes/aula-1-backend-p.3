@@ -1,3 +1,4 @@
+ERRADO
 Algoritmo "Farenheit"
 
 Var
