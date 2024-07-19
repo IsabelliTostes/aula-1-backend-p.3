@@ -1,4 +1,4 @@
-ERRADO
+//Errado..
 Algoritmo "Farenheit"
 
 Var
@@ -9,7 +9,4 @@ leia (Farenheit)
 
 Celsius<-5*(Farenheit - 32) /9
 escreval ("Celsius = ", celsius)
-Fimse
-fimpara
-
 Fimalgoritmo
